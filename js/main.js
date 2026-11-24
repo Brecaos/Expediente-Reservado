@@ -81,7 +81,7 @@ const FILES = [
     serial: "PN–04/T",
     function: "Examinar los soportes, revelar señales ocultas y validar la autenticidad del mensaje.",
     dossier: {
-      name: "Carolina Zapata Herrera",
+      name: "Jazbleidis Yonkleiberzon Azuaje",
       alias: "Kioto",
       identityCode: "T3X68B2J",
       birthDate: "17/06/1997",
